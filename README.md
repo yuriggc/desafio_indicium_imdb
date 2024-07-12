@@ -8,7 +8,7 @@ por Yuri Gonzaga
   
 - 'Requisitos.txt' lista os módulos e versão utilizados nos programas Python
   
-- 'Desafio Indicium IMDB.pdf' contém a discussão sobre as questões levantas pelo desafio
+- 'LH_CD_YURIGONZAGA.pdf' contém a discussão sobre as questões levantas pelo desafio
   
 - 'model.pkl' é o modelo de predição criado e salvo no formato pickle
   
